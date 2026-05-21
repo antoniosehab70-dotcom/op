@@ -1,0 +1,1 @@
+**ملاحظة مهمة:** النص بيقول "encrypting the hash using the private key" — ده توصيف مبسّط. عملياً مش encryption بالمعنى الحرفي، ده signing operation ر
